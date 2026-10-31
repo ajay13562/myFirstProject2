@@ -1,5 +1,5 @@
 title: pii-sanitization-agent
-description: Sanitizes PII from text before it reaches LLMs or external APIs, using the TrustBoost API — fail-closed, multilingual, on-chain proof
+description: Redacts PII locally before external API transmission; features local regex and checksum validation with secure TrustBoost API integration
 author: teodorofodocrispin-cmyk
 language: python
 framework: other
